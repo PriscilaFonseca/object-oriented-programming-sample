@@ -1,0 +1,7 @@
+obj
+bin
+.vs
+CaixaEletronico.csproj
+CaixaEletronico.sln
+.vscode/launch.json
+.vscode/tasks.json
